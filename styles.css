@@ -4,9 +4,8 @@ body {
 }
 .assignment {
     display:flex;
-    flex-wrap:wrap;
-    padding:10px;
-    margin:10px;
+    padding: 10px;
+   margin:10px;    
     background:lightcyan;
 }
 .assignment img {
